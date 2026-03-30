@@ -35,9 +35,9 @@ This repository contains a suite of 5 Bash shell scripts designed for a universi
 ## Instructions for Use
 ```bash
 chmod +x *.sh
-./01 system_identity.sh
-./02 package_instector.sh
-./03 disk_auditor.sh
-./04 log_analyzer.sh
-./05 manifesto.sh
+./system_identity.sh
+./package_instector.sh
+./disk_auditor.sh
+./log_analyzer.sh
+./manifesto.sh
 ```
