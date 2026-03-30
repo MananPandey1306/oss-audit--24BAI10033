@@ -5,10 +5,9 @@ This document contains simulated terminal outputs for the 5 audit scripts.
 ---
 
 ## 1. System Identity Report (`01-identify.sh`)
-```bash
+
 <img width="1600" height="654" alt="image" src="https://github.com/user-attachments/assets/68c057c7-5436-4f3a-84bb-2d7e513c7a81" />
 
-```
 ---
 
 ## 2. FOSS Package Inspector (`02-packages.sh`)
