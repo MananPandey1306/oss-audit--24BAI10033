@@ -1,4 +1,4 @@
-# Apache Audit - Script Execution Outputs
+# Python Audit - Script Execution Outputs
 
 This document contains simulated terminal outputs for the 5 audit scripts.
 
